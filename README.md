@@ -1,4 +1,4 @@
-# summer
+# SUMMER
 SUMMER: Pipeline for Long-read Sequencing
 SUMMER is an integrated pipeline for holistic human genomic variations detections via nanopore sequencing.
 ![SUMMER figure](https://github.com/HongyuanChu/summer/assets/158466423/ff242470-a79d-45c4-a264-8ce6361144bb)
