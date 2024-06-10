@@ -7,3 +7,4 @@ Long-read sequencing has flourished and boomed in recent years for deciphering c
 All softwares intergrated in SUMMER are also pushed in the docker container, users can also feel free to achieve self-defined functions.
 
 See instructions on website: https://pku-edu.gitbook.io/summer-pipeline-for-long-read-sequencing/
+![Uploading d935c5a4ef810025b370fe9f9723ae9.png…]()
